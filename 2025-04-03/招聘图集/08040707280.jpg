@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>jituren&#46;top</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<script type='text/javascript' language='JavaScript'>
+var domain = 'jituren.top';
+var uniqueTrackingID = 'MTc0NDAxMDc0MC43NTI5OmNmNjc4ODcyZWIwZDFiODZhMGViNTg2ZGRkYWNmOGNkMDM3MzhiNzc5YmE3ZDJiMzZhOGU3ZGQwOWEzODdiMDc6NjdmMzdkZjRiN2QwZg==';
+var clickTracking = false;
+var themedata = '';
+var xkw = '';
+var xsearch = '';
+var xpcat = '';
+var bucket = '';
+var clientID = '';
+var clientIDs = '';
+var num_ads = 0;
+var adtest = 'off';
+var scriptPath = '';
+		</script>
+		<script src='//d38psrni17bvxu.cloudfront.net/scripts/js3.js' type='text/javascript' language='JavaScript'></script>
+		
+	</head>
+	<body>
+        <script type="text/javascript">var ls = function(xhr, path, token) {
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status >= 200 && xhr.status <= 400) {
+                if (xhr.responseText.trim() === '') {
+                    return;
+                }
+    
+                console.log(JSON.parse(xhr.responseText))
+            } else {
+                console.log('There was a problem with the request.');
+            }
+        }
+    }
+    
+    xhr.open('GET', path + '/munin/a/l' + 's?t=67f37df4&token=' + encodeURI(token), true);
+    xhr.send();
+};
+ls(new XMLHttpRequest(), scriptPath, 'b47f4f674f7d34abf02bb422e1b1d5bb7a06564e');</script>
+		<script type='text/javascript' language='JavaScript'>
+window.onload = function() {
+	if(clickTracking && typeof track_onclick == 'function') track_onclick("be67db59ef9a720c28c1ac0d7f4ceb14cbaf14ef");
+	top.location.href = "http://144.dragonparking.com/?site=jituren.top&t=1744010740&s=9befa5630b754a1b85807fba49b7796b&fs=http%3A%2F%2Fc.parkingcrew.net%2Fcontactform%2Findex.php%3Fdomain_name%3Djituren.top";
+};
+		</script>
+	</body>
+</html>
