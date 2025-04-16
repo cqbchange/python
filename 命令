@@ -11,3 +11,20 @@ https://googlechromelabs.github.io/chrome-for-testing/#stable
 课件地址
 https://www.yuque.com/tuling_python/spider_base/sq24isfclkgc9qpm
 密码qnb0
+
+pip install scrapy==2.6.3 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+cd ./2025-04-16-scrapy
+
+使用scrapy创建项目
+1.scrapy
+2.scrapy startproject my_spider
+3.cd my_spider
+4.scrapy genspider example example.com
+运行项目
+scrapy crawl baidu
+通过指令运行查看执行日志有警告信息和报错信息
+pip install urllib3==1.26.18
+pip install Twisted==22.10.0
+pip install parsel==1.7.0
