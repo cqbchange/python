@@ -8,5 +8,10 @@ class BaiduSpider(scrapy.Spider):
 
     def parse(self, response):
         print(response.text)
+        print(response.status)
+        print(response.body)
+        print(response.url)
+        print(response.request.url)
+        print(response.request.headers)
 if __name__ == '__main__':
     cmdline.execute('scrapy crawl baidu'.split())
