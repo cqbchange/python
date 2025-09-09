@@ -1,0 +1,2 @@
+// result ='{';for(let x of Object.keys(aaa)){result = result + '"'+x+'"'+":"+aaa[x]+','};result=result+'}'
+result ='{';for (let x of Object.keys(aaa)){result = result +'"' +x + '"' + ":" + aaa[x] + ','}; result = result + '}'

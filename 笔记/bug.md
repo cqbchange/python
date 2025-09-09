@@ -403,3 +403,8 @@ watch.setWatcher(this); // 设置监听器，建议在onLoad下调用
 
 4.npm或yarn出现不是内部命令说明nvm下的node版本中没有npm或yarn
 
+C:\Users\Administrator\AppData\Roaming\nvm
+
+C:\Users\Administrator\AppData\Roaming\nvm\nodejs\nodejs
+
+# vue create -p dcloudio/uni-preset-vue my-project()
